@@ -1,0 +1,27 @@
+body {
+    background-color: blanchedalmond;
+}
+
+h1 {
+    font-family: "Archivo Black", Helvetica;
+    font-weight: normal;
+    color:rgb(40, 150, 184);
+    word-spacing:-5px;
+    font-size: 30px;
+}
+
+.subheading {
+    font-size: 24px;
+}
+
+.sub_subheading {
+    margin-left: 10px;
+}
+
+
+
+li, p, a {
+    font-family: Merriweather, serif;
+    color:rgb(77, 77, 77);
+    line-height: 25px;
+}
